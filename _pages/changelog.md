@@ -5,18 +5,18 @@ include_in_header: true
 ---
 
 ### `Latest`
-# **Version 1.4**
+# **Release 1.4**
 
 **Slotcar - GearCalc Update**
 
-Liebe Slotcar-Enthusiasten,
+Dear Slotcar enthusiasts,
 
-dieses erste Update bringt euch noch mehr Kontrolle über die Ergebnisausgabe und die Verwaltung eurer Berechnungen!
+This update gives you even more control over result display and calculation management!
 
 #### What's New
-- Anpassbare Ergebnisanzeige für Übersetzungsverhältnis, Geschwindigkeit und Distanz
-- Unterstützung für internationale Einheiten (z. B. cm/inch, km/h und mph)
-- Ergebnisse lassen sich jetzt auch einzeln löschen
+- Customizable result display – Choose which values to display (gear ratio, speed, distance).
+- International units – Easily switch between different measurement units for distance and speed.
+- Individually deletable results – You can now remove specific calculations as needed.
 
 
 <br>
@@ -25,18 +25,19 @@ ________
 <br>
 
 ### `Initial Release`
-# **Version 1.0**
+# **Release 1.0**
+
+GearCalc – The Slot Car Gear Ratio Calculator
+
+With GearCalc, you can easily calculate the gear ratio of your slot car! Enter your slot car's current values and start your first calculation.
+
+How it works:
+
+Input the current values: Enter the values for the motor pinion, the rear axle crown gear, and the tire diameter of your slot car.
+Start the calculation: Calculate your slot car's gear ratio with just one click.
+Compare with new values: Now, input your desired values and perform another calculation.
+Reference calculation: Compare the new calculation with the first one (reference calculation) to see how your slot car behaves with the new values!
+GearCalc helps you quickly and easily determine how changes to your setup affect your slot car's performance, offering a practical way to compare different setups.
 GearCalc – Der Slotcar Übersetzungsrechner
-
-Mit GearCalc kannst du ganz einfach das Übersetzungsverhältnis deines Slotcars berechnen! Gib die aktuellen Werte deines Slotcars ein und starte die erste Berechnung.
-
-So funktioniert es:
-
-Eingabe der aktuellen Werte: Trage die Werte für das Motorritzel, das Kronrad der Hinterachse und den Reifendurchmesser deines Slotcars ein.
-Berechnung starten: Berechne das Übersetzungsverhältnis deines Slotcars mit nur einem Klick.
-Vergleich mit neuen Werten: Gib nun die gewünschten Werte ein und starte eine weitere Berechnung.
-Referenzberechnung: Vergleiche die neue Berechnung mit der ersten (Referenzberechnung) und finde heraus, wie sich dein Slotcar bei den neuen Werten verhält!
-GearCalc hilft dir dabei, schnell und einfach herauszufinden, wie sich Änderungen an den Werten auf die Leistung deines Slotcars auswirken, und bietet dir eine praktische Möglichkeit, die verschiedenen Setups miteinander zu vergleichen.
-
 
 <br>

@@ -3,7 +3,7 @@ page_title                                : Slotcar - GearClac                  
 
 # App Info
 ios_app_id                                : 6740806046                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
-ios_app_country                           : de                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
+ios_app_country                           : en                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
 appstore_link                             : https://apps.apple.com/us/app/slotcar-gearcalc/id6740806046                                          # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
@@ -13,7 +13,7 @@ presskit_download_link                    :                                     
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Berechne und vergleiche das Übersetzungsverhältnis deines Slotcars. Optimiere dein Setup mit GearCalc – einfach Eingeben, Berechnen und Performance testen!
+app_description                           : Calculate and compare the gear ratio of your slot car. Optimize your setup with GearCalc – simply input, calculate, and test performance!
 
 enable_smart_app_banner                   : false                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -36,28 +36,28 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Getriebe- & Geschwindigkeitsberechnung
-    description                           : Berechnung der Übersetzung (Gear Ratio) anhand von Motorritzel & Kronrad. Ermittlung der zurückgelegten Strecke pro Radumdrehung und Berechnung der Geschwindigkeit in cm/s oder anderen Einheiten.
+  - title                                 : Gear & Speed Calculation
+    description                           : Calculation of the gear ratio based on the motor pinion and crown wheel. Determining the distance covered per wheel rotation and calculating the speed in cm/s or other units.
     fontawesome_icon_name                 : calculator
     
-  - title                                 : Anpassbare Ergebnisausgabe
-    description                           : Individuelle Anzeigeoptionen für Übersetzungsverhältnis, Strecke pro Umdrehung und Geschwindigkeit. Unterstützung für internationale Einheiten.
+  - title                                 : Customizable Result Output
+    description                           : Custom display options for gear ratio, distance per rotation, and speed. Supports international units.
     fontawesome_icon_name                 : cogs
 
-  - title                                 : Ergebnismanagement
-    description                           : Mehrere Berechnungen speichern und vergleichen. Setze eine Berechnung als Referenzwert für den Vergleich. Lösche einzelne Ergebnisse nach Bedarf.
+  - title                                 : Result Management
+    description                           : Save and compare multiple calculations. Set one calculation as the reference value for comparison. Delete individual results as needed.
     fontawesome_icon_name                 : chart-line
 
-  - title                                 : Benutzerfreundlichkeit
-    description                           : Einfache Eingabe mit automatischer Formatierung. Kompatibel mit Dezimal- & Ganzzahlen. Eingaben und Einstellungen bleiben gespeichert.
+  - title                                 : User-Friendliness
+    description                           : Easy input with automatic formatting. Compatible with decimal and whole numbers. Inputs and settings remain saved.
     fontawesome_icon_name                 : toolbox
 
-  - title                                 : Mehrsprachige Unterstützung
-    description                           : Die App ist in mehreren Sprachen verfügbar, sodass Nutzer weltweit von den Funktionen profitieren können.
+  - title                                 : Multilingual Support
+    description                           : The app is available in multiple languages, so users worldwide can benefit from its features.
     fontawesome_icon_name                 : globe
 
-  - title                                 : Modernes & intuitives Design
-    description                           : Übersichtliches, anpassbares Layout für eine optimale Nutzererfahrung auf Smartphones und Tablets.
+  - title                                 : Modern & Intuitive Design
+    description                           : Clear, customizable layout for an optimal user experience on smartphones and tablets.
     fontawesome_icon_name                 : mobile
 
   - title                                 : # New Feature Title
