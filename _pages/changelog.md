@@ -38,6 +38,6 @@ Start the calculation: Calculate your slot car's gear ratio with just one click.
 Compare with new values: Now, input your desired values and perform another calculation.
 Reference calculation: Compare the new calculation with the first one (reference calculation) to see how your slot car behaves with the new values!
 GearCalc helps you quickly and easily determine how changes to your setup affect your slot car's performance, offering a practical way to compare different setups.
-GearCalc – Der Slotcar Übersetzungsrechner
+
 
 <br>
